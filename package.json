@@ -1,0 +1,25 @@
+{
+  "name": "devon4ws",
+  "version": "0.9.1",
+  "description": "A programming language and online editor for devonfw",
+  "main": "index.html",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vii5ard/whitespace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vii5ard/whitespace/issues"
+  },
+  "homepage": "https://github.com/vii5ard/whitespace#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
